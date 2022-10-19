@@ -42,6 +42,7 @@
 {"key":"csp_app_天空TV","name":"🐌天空TV","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tv.tkys.tv/api.php/iptv/vod/"},
 {"key":"csp_xbb_蓝光影视","name":"🍀蓝光影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/蓝光影视.json"},
 {"key": "瑜伽健身","name": "瑜伽健身","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitcode.net/beimux/c/raw/main/TVBox/瑜伽健身.json"},
+{"key": "BEIMU","name": "BEIMU","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitcode.net/beimux/c/raw/main/TVBox/BEIMU.json"},
 //{"key":"csp_AppTT","name":"🐰图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "日漫","name": "日漫(爬虫)","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "在线直播(SP)","name": "🌈在线直播(SP)","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
