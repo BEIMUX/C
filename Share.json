@@ -78,7 +78,8 @@
 
 
 
-{"key": "T4","name": "T4爬虫","type": 4,"api": "http://service-opif4vvr-1313516851.cd.apigw.tencentcs.com/release/vod?sites=all&ali_token=https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt&timeout=10","searchable": 1,"quickSearch": 1,"filterable": 1},
+//{"key": "T4","name": "T4爬虫","type": 4,"api": "http://service-opif4vvr-1313516851.cd.apigw.tencentcs.com/release/vod?sites=all&ali_token=https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt&timeout=10","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "T4","name": "T4公共","type": 4,"api": "https://t4.secan.icu/vod?sites=all&ali_token=https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt&timeout=10","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"sites":[{"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=xxxxxxxxx&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "csp_Gitcafe","name": "📜小纸条","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
 {"key": "csp_Yiso"    ,"name":"🐞易搜盘","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
