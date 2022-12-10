@@ -737,7 +737,7 @@
 //{"name": "轮询","type": 2,"url": "Sequence","header": {"User-Agent": "Mozilla/5.0"}},
 //{"name": "并发","type": 2,"url": "Parallel","header": {"User-Agent": "Mozilla/5.0"}},
 ##潇洒
-{"name":"很牛逼","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="},
+{"name":"很牛逼(软解码)","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="},
 ##qiaoji
 {"name":"ckflv","type":1,"url":"http://api.ckflv.cn/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
 {"name":"tkys","type":1,"url":"https://rx.bt5v.com/json/jsonindex.php/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},
