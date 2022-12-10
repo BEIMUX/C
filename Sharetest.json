@@ -78,11 +78,10 @@
 //{"key": "csp_Paper","name": "📜小纸条","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
 //{"key":"csp_Paper","name":"📜纸条┃云盘","type":3,"api":"csp_Paper","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok"},
 {"key":"Gitcafe","name":"📜小纸条(爬虫)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok","jar":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;53901346b331dcd035a1fd108a4ecac7"},
-{"key":"YiSo","name":"😹易搜┃搜索","type":3,"api":"csp_YiSo","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
-{"key":"PanSou","name":"🦊盘搜┃搜索","type":3,"api":"csp_PanSou","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
-{"key":"Upyunso","name":"😻Up搜┃搜索","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
-{"key":"Zhaozy","name":"🐺找资源┃搜索","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
-{"key":"push","name":"🛴手机┃推送","type":3,"api":"csp_push","playerType":2,"searchable":0,"quickSearch":0,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
+{"key": "zhaozy","name": "找资源(仅搜索)","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://ali.饭太硬.ml/tok","jar":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;53901346b331dcd035a1fd108a4ecac7"},
+{"key": "AliPS","name": "盘搜(仅搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://ali.饭太硬.ml/tok","jar":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;53901346b331dcd035a1fd108a4ecac7"},
+{"key": "Yisou","name": "一搜(仅搜索)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://ali.饭太硬.ml/tok","jar":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;53901346b331dcd035a1fd108a4ecac7"},
+{"key": "Upyunso","name": "云搜(仅搜索)","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://ali.饭太硬.ml/tok","jar":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;53901346b331dcd035a1fd108a4ecac7"},
 
 
 ##alist//,"jar":"https://gitcode.net/beimux/c/raw/main/TVBox/alist/alist.jar"},
