@@ -746,7 +746,7 @@
 {"name":"Bt5v","type":1,"url":"proxy://do=jx&name=bt5v&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":""}}},
 {"name":"PlayMv","type":1,"url":"proxy://do=jx&name=playmv&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":""}}},
 {"name":"无名","type":1,"url":"https://hc.izny.cn/json.php?url="},
-{"name":"公益2","type":1,"url":"http://3.37.195.161:54371/parse/api/无名.js?url=","header":{"User-Agent":"Mozilla/5.0"}}
+{"name":"公益2","type":1,"url":"http://3.37.195.161:54371/parse/api/无名.js?url=","header":{"User-Agent":"Mozilla/5.0"}}，
 ##小雅
 {"name": "🌐Ⓤ","type": 0,"url": "","header": {"User-Agent": "Mozilla/5.0"}},
 {"name": "万能","url": "https://json.legendwhb.cn/llq/?url=","type": 0,"ext": {"flag": ["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku", "优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header": { "User-Agent": "Mozilla/5.0"}},"header": {"User-Agent": "Mozilla/5.0"}},
