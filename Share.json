@@ -26,7 +26,7 @@
 ##多jar食用方式： //{"key":"","name":"","type":……3,"api":"","searchable":1,"quickSearch":1,"filterable":1,"jar":"your_other_jar"},
 
 "sites":[
-{"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SP360","name":"💘360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
 {"key":"dr_兔小贝","name":"📚儿童启蒙","type":1,"api":"http://dr.饭太硬.ml/vod?rule=兔小贝","playerType":2,"searchable":1,"quickSearch":1,"filterable":0},
