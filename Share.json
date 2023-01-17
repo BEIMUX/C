@@ -29,6 +29,7 @@
 ##多jar食用方式： //{"key":"","name":"","type":……3,"api":"","searchable":1,"quickSearch":1,"filterable":1,"jar":"your_other_jar"},
 
 "sites":[
+{"key":"csp_SP360","name":"💘360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Lezhu","name":"🐷┃乐猪┃影视","api":"csp_XBPQ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://我不是.肥猫.love:63/json/乐猪.json"},
 {"key":"XBPQ_Lgyy","name":"🌀┃蓝光┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/json/蓝光影院.json"},
 {"key": "csp_BuLei","name":"🍩┃布雷┃影视","type": 3,"api": "csp_BuLei","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -38,7 +39,8 @@
 {"key":"哔滴影视","name":"🎵┃哔滴┃影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"农民","name":"🤴┃农民┃影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/jwkui9su.json"},
 {"key":"在线之家","name":"🎞┃在线┃之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
-
+{"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
+{"key":"csp_Kuaikan","name":"🎈快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 
 
 //{"key":"Xinsj","name":"🌟┃视觉┃影视","type":"3","api":"csp_Xinsj","searchable":"1","quickSearch":"1","filterable":"1"},
@@ -52,7 +54,7 @@
 
 {"key":"csp_app_贝贝","name":"🐹┃贝贝┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mkuku2.gotka.top/api.php/v1.vod","jar":"http://我不是.肥猫.love:63/Jar/top.jar;md5;D7591B67E8CDB674784B2CEE08AF35BA"},
 
- {"key":"csp_AppTT","name":"🐰┃图图┃影视","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.248.66.107:9955"},
+ //{"key":"csp_AppTT","name":"🐰┃图图┃影视","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.248.66.107:9955"},
 
  {"key":"csp_AppTTts","name":"🐰┃图图┃唐三","type":3,"api":"csp_Dora","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"110c922de7d69804467fb83d3bb664b5","jar":"http://我不是.肥猫.love:63/Jar/ts.jar;md5;B46813094AE8074AD90E9FE9CC2ED3FA"},
  
@@ -216,9 +218,7 @@
 
 	
 	
-{"key":"csp_SP360","name":"💘360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
-{"key":"csp_Kuaikan","name":"🎈快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"csp_Bttoo","name":"✌两个BT","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"mjxq_spider","name":"🌏美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Auete","name":"🐼Auete","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
