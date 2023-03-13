@@ -220,17 +220,7 @@
             "filterable": 1,
             "ext": "https://api-tx.shumaxc.xyz"
         },
-        {
-            "key": "csp_AppTT",
-            "name": "🐰图图┃App",
-            "type": 3,
-            "api": "csp_AppTT",
-            "m3u8ads": "hd.youyhn.com",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "tv$$$dlJYWW16R0IqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbm16R0JiKnpYUCNWWg==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
-        ,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;4d4928e4505e301355aedfa1e43e9d71"},
+//{"key": "csp_AppTT","name": "🐰图图┃App","type": 3,"api": "csp_AppTT","m3u8ads": "hd.youyhn.com","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "tv$$$dlJYWW16R0IqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbm16R0JiKnpYUCNWWg==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
         {
             "key": "csp_BuLei",
             "name": "💢布雷┃直连",
@@ -242,16 +232,7 @@
             "filterable": 1,
             "ext": "https://www.bulei.cc"
         },
-        {
-            "key": "csp_77",
-            "name": "👒七七┃App",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "m3u8ads": "hd.youyhn.com",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+//{"key": "csp_77","name": "👒七七┃App","type": 3,"api": "csp_Kunyu77","m3u8ads": "hd.youyhn.com","searchable": 1,"quickSearch": 1,"filterable": 1},
         {
             "key": "csp_AppMr",
             "name": "👻明明┃App",
@@ -284,16 +265,7 @@
             "filterable": 1,
             "ext": "https://www.fantuanhd.com"
         },
-        {
-            "key": "csp_Vofl",
-            "name": "🎈Voflix┃直连",
-            "type": 3,
-            "api": "csp_Voflix",
-            "m3u8ads": "hd.youyhn.com",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+//{"key": "csp_Vofl","name": "🎈Voflix┃直连","type": 3,"api": "csp_Voflix","m3u8ads": "hd.youyhn.com","searchable": 1,"quickSearch": 1,"filterable": 1},
         {
             "key": "csp_Xinsj",
             "name": "🐼新视觉┃直连",
@@ -357,60 +329,11 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "csp_Lib",
-            "name": "🌟Libvio┃直连",
-            "type": 3,
-            "api": "csp_Libvio",
-            "m3u8ads": "hd.youyhn.com",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://tv.libvio.cc/"
-        },
-        {
-            "key": "csp_zxzj",
-            "name": "📗在线┃直连",
-            "type": 3,
-            "api": "csp_Zxzj",
-            "m3u8ads": "hd.youyhn.com",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.zxzj.org"
-        },
-        {
-            "key": "csp_zxzjH3",
-            "name": "📗在线H3┃影视",
-            "type": 3,
-            "api": "csp_ZxzjH3",
-            "m3u8ads": "hd.youyhn.com",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.zxzjhd.com"
-        },
-        {
-            "key": "csp_Lgyy",
-            "name": "🌀蓝光┃直连",
-            "type": 3,
-            "api": "csp_Lgyy",
-            "m3u8ads": "hd.youyhn.com",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.lgyy.tv"
-        },
-        {
-            "key": "csp_Smdyy",
-            "name": "🐴神马┃直连",
-            "type": 3,
-            "api": "csp_Smdyy",
-            "m3u8ads": "hd.youyhn.com",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+//{"key": "csp_Lib","name": "🌟Libvio┃直连","type": 3,"api": "csp_Libvio","m3u8ads": "hd.youyhn.com","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tv.libvio.cc/"},
+//{"key": "csp_zxzj","name": "📗在线┃直连","type": 3,"api": "csp_Zxzj","m3u8ads": "hd.youyhn.com","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.zxzj.org"},
+//{"key": "csp_zxzjH3","name": "📗在线H3┃影视","type": 3,"api": "csp_ZxzjH3","m3u8ads": "hd.youyhn.com","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.zxzjhd.com"},
+//{"key": "csp_Lgyy","name": "🌀蓝光┃直连","type": 3,"api": "csp_Lgyy","m3u8ads": "hd.youyhn.com","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.lgyy.tv"},
+//{"key": "csp_Smdyy","name": "🐴神马┃直连","type": 3,"api": "csp_Smdyy","m3u8ads": "hd.youyhn.com","searchable": 1,"quickSearch": 1,"filterable": 1},
         {
             "key": "csp_Bd",
             "name": "💥哔嘀┃直连",
@@ -433,17 +356,7 @@
             "filterable": 1,
             "ext": "http://饭太硬.ga/x/json/nmys.json"
         },
-        {
-            "key": "csp_Ysgc",
-            "name": "🏭工厂┃直连",
-            "type": 3,
-            "api": "csp_Ysgc",
-            "m3u8ads": "hd.youyhn.com",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.ysgc.vip"
-        },
+//{"key": "csp_Ysgc","name": "🏭工厂┃直连","type": 3,"api": "csp_Ysgc","m3u8ads": "hd.youyhn.com","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.ysgc.vip"},
         {
             "key": "csp_panghu",
             "name": "🐯胖虎┃直连",
@@ -705,36 +618,9 @@
             "filterable": 0,
             "ext": "http://ali.饭太硬.ml/alitoken"
         },
-        {
-            "key": "csp_XYQHiker皮皮鸭",
-            "name": "️🌸皮皮鸭┃嗅探",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://饭太硬.ga/x/XYQ/皮皮鸭.json"
-        },
-        {
-            "key": "csp_XYQH野马",
-            "name": "️🌸野马┃嗅探",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://饭太硬.ga/x/XYQ/野马.json"
-        },
-        {
-            "key": "csp_XBPQ_爱看",
-            "name": "🌸爱看┃嗅探",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://饭太硬.ga/x/xbpq/爱看.json"
-        },
+//{"key": "csp_XYQHiker皮皮鸭","name": "️🌸皮皮鸭┃嗅探","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://饭太硬.ga/x/XYQ/皮皮鸭.json"},
+//{"key": "csp_XYQH野马","name": "️🌸野马┃嗅探","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://饭太硬.ga/x/XYQ/野马.json"},
+//{"key": "csp_XBPQ_爱看","name": "🌸爱看┃嗅探","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://饭太硬.ga/x/xbpq/爱看.json"},
 
 
 
