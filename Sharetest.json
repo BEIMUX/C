@@ -31,7 +31,7 @@
 ##多jar食用方式： //{"key":"","name":"","type":……3,"api":"","searchable":1,"quickSearch":1,"filterable":1,"jar":"your_other_jar"},
 
 "sites":[
-{"key":"csp_SP360","name":"💘360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"csp_Kunyu77","name":"🌈┃七七┃影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_BuLei","name":"🍩┃布雷┃影视","type": 3,"api": "csp_BuLei","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"YQK_spider","name":"🏃┃一起┃电视","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"http://我不是.肥猫.love:63/Jar/qq2.jar;md5;4E872E4AA2D4F8B6F4FFBC11E6B3E1A1"},
@@ -41,7 +41,7 @@
 {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
 {"key":"csp_Kuaikan","name":"🎈快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Lezhu","name":"🐷┃乐猪┃影视","api":"csp_XBPQ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://我不是.肥猫.love:63/json/乐猪.json"},
-
+{"key":"csp_SP360","name":"💘360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 
 
 {"key":"csp_apple","name":"🍎┃苹果┃影视","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
@@ -242,7 +242,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
+        ,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;4d4928e4505e301355aedfa1e43e9d71"},
         {
             "key": "csp_apple",
             "name": "🍎苹果┃App",
@@ -398,7 +398,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://饭太硬.ga/x/json/黑料.json"
-        },
+        ,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;4d4928e4505e301355aedfa1e43e9d71"},
         {
             "key": "csp_SP360",
             "name": "📺360┃解析",
