@@ -42,9 +42,10 @@
 
 //{"key":"csp_AppTT","name":"🐰┃图图┃影视","type":3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "tv/$$$dlJYWW16R0IqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbm16R0JiKnpYUCNWWg==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ==","m3u8ads": "hd.youyhn.com"},
 
-{"key": "csp_BuLei","name":"🍩┃布雷┃影视","type": 3,"api": "csp_BuLei","searchable": 1,"quickSearch": 1,"filterable": 1,ext:"https://www.bulei.cc"},
+{"key": "csp_BuLei","name":"🍩┃布雷┃影视","type": 3,"api": "csp_BuLei","searchable": 1,"quickSearch": 1,"filterable": 1,ext:"https://v.bulei.cc"},
 
-{"key":"YQK_spider","name":"🙆┃一起┃电视","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"playerType": 2,"ext": "https://api-tx.shumaxc.xyz","m3u8ads": "hd.youyhn.com"},
+
+{"key":"YQK_spider","name":"🙆┃一起┃电视","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"playerType": 2,"ext": "https://api-tx.11ty.top","m3u8ads": "hd.youyhn.com"},
 
 {"key": "csp_AppMr","name": "👻┃明明┃影视","type": 3,"api": "csp_AppMr","searchable": 1,"quickSearch": 1,"filterable": 1},
 
@@ -62,7 +63,7 @@
 //{"key":"csp_GitCafe","name":"📜┃纸条┃雲盘","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://hz752.love:63/ali/ken.php"},
 {"key": "csp_Hlsp","name": "👿┃黑料┃影视","type": 3,"api": "csp_Hlsp","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://我不是.肥猫.love:63/json/黑料.json"},
 
-{"key": "csp_Yht","name":"🌵┃荷塘┃影视","type": 3,"api": "csp_Yht","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://yehetang.cc"},
+//{"key": "csp_Yht","name":"🌵┃荷塘┃影视","type": 3,"api": "csp_Yht","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://yehetang.cc"},
 
 //{"key": "Tian","name": "🐾┃天天┃影视","type": -1,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"bdc1c75081e5e477189a463baa47e392"},
 
